@@ -3,17 +3,17 @@
 		{
 			"id": 1,
 			"title": "Fedex",
-			"logo": "fedex.png"
+			"logo": "https://raw.githubusercontent.com/id8-io/app-resources/main/service-provider/fedex.png"
 		},
 		{
 			"id": 2,
 			"title": "USPS",
-			"logo": "usps.png"
+			"logo": "https://raw.githubusercontent.com/id8-io/app-resources/main/service-provider/usps.png"
 		},
 		{
 			"id": 3,
 			"title": "UPS",
-			"logo": "ups.png"
+			"logo": "https://raw.githubusercontent.com/id8-io/app-resources/main/service-provider/ups.png"
 		}
 	],
     "version": 1
