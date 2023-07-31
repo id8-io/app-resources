@@ -1,0 +1,19 @@
+{
+	"companies": [
+		{
+			"id": 1,
+			"title": "Fedex",
+			"logo": "fedex.png"
+		},
+		{
+			"id": 2,
+			"title": "USPS",
+			"logo": "usps.png"
+		},
+		{
+			"id": 3,
+			"title": "UPS",
+			"logo": "ups.png"
+		}
+	]
+}
